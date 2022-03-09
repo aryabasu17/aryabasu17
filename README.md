@@ -86,13 +86,13 @@
  
 <h3 align="left">Profile Views: 🧐</h3>
   
-![Profile views](https://gpvc.arturio.dev/avinash-218)
+![Profile views](https://gpvc.arturio.dev/aryabasu17)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryabasu17&theme=tokyonight)](https://github.com/aryabasu17/github-readme-stats)
-  
+
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=aryabasu17&theme=chartreuse-dark&no-frame=true" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=aryabasu17&theme=tokyonight&no-frame=true" /></p>
 </details>
 
   
@@ -103,7 +103,7 @@
   
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryabasu17&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryabasu17&show_icons=true&theme=tokyonight" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryabasu17&theme=tokyonight" />
 </p>  
 
