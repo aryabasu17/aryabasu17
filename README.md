@@ -1,19 +1,19 @@
-<h1 align="center">Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Arya<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
+<h3 align="center">Web Developer, Open-source Contributor and Life-Long Learner</h3>
 
 ## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle&theme=tokyonight)
 
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
-<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
+<img width="40%" align="right" alt="Github Header" src="git-header.svg" />
 
 <p>
   
-- Computer Science & Engineering - 3rd year @ Mepco Schlenk Engineering College. 🎓
-- Currently working with <a href="https://www.deepsphere.ai/" target="_black">DeepSphere.AI</a> as a Data Science Intern. 🏥
+- Computer Science & Engineering - 1st year @ Netaji Subhash Engineering College. 🎓
+- Currently working with <a href="https://oforce.com/" target="_black">Openforce</a> as a Contributor. 🏥
 - Looking for opportunities and collaborations in the field of data science. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 - Technical Blogger 📝
@@ -21,22 +21,22 @@
 
 <div align="center">
 
-## **Scan to fly through my Portfolio**
+<!-- ## **Scan to fly through my Portfolio**
 <a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
-</div>
+</div> -->
 
-<img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
+<img width="40%" align="right" alt="Github Header" src="coding_2.gif" />
 
 <h3 align="left">Interests:</h3>
 
 - Data Science 📊
 - Data Structures And Algorithms 💻
-- Database 
+- Wev Development
 
 <h3 align="left">Languages:</h3>
 
 - English 🔤
-- Tamil
+- Bengali
 
 <br><br>
 
@@ -67,20 +67,20 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
   
 ## **Badges🥇**<br>
-<img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
-<img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
-<img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
+<img src="Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
+<img src="SWOC.jpg" alt="SWOC Badge" width="60" height="60">
+<img src="Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
   
 # Achievements :
   - 58th Rank in Hexaware Data Science Engineer Challenge - TechGig
-  - Eligible for Seed-Funding from Mepco Schlenk Engineering College
+  - Eligible for Winter Source of Code 
   - Got selected to meet-up with Angel Investors.
 
-# Blogs :
+<!-- # Blogs :
 |Title|Links|
 |:---:|:---:|
 |Rain Prediction in Australia - Decision Tree|<a href="https://hashnode.com/post/rain-prediction-in-australia-decision-tree-ckzsxgon30031d4s13ur6hjiq">Hashnode</a><br><a href="https://dev.to/avinash218/rain-prediction-in-australia-decision-tree-1b57">Dev</a>|
-|Stationarity Analysis in Time Series Data|<a href="https://geekycodes.in/stationarity-analysis-in-time-series-data/">GeekyCodes</a>|
+|Stationarity Analysis in Time Series Data|<a href="https://geekycodes.in/stationarity-analysis-in-time-series-data/">GeekyCodes</a>| -->
   
 ## &#x1f4c8; My GitHub Stats🎯
  
@@ -88,44 +88,48 @@
   
 ![Profile views](https://gpvc.arturio.dev/avinash-218)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryabasu17&theme=tokyonight)](https://github.com/aryabasu17/github-readme-stats)
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=avinash-218&theme=chartreuse-dark&no-frame=true" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=aryabasu17&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
 
   
 <details><summary>Trophies</summary>
 <p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=avinash-218&column=7&theme=gruvbox&no-frame=true"/>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=aryabasu17&column=7&theme=tokyonight&no-frame=true"/>
 </details>
   
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avinash-218&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryabasu17&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryabasu17&theme=tokyonight" />
 </p>  
 
-<a href="https://gitstalk.netlify.app/avinash-218/" target="_blank"> See My Latest Activities Here</a>
+<a href="https://gitstalk.netlify.app/aryabasu17/" target="_blank"> See My Latest Activities Here</a>
   
 
-<img src ="Images/social_dashboard.svg" align = "left" width = 50%>
+<img src ="social_dashboard.svg" align = "left" width = 50%>
 <div>
 <h2  > Connect with me</h2>
   
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/avinash-r-2113741b1)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arya-basu-55ab86200/)
 <br><br>
-[<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ravinash218)
+<!-- [<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ravinash218)
+<br><br> -->
+[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/creative_ensnare17/)
 <br><br>
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ravinash/)
+[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/17632672/riju-basu?tab=profile)
 <br><br>
-[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/11452026/avinash?tab=profile)
+[<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/aryabasu17)
 <br><br>
-[<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/avinash218)
-<br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@avinash-218)
-<br><br>
+[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@aryabasu)
+<br>
+  
+  
+<br>
+
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
