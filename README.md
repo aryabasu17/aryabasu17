@@ -1,29 +1,4 @@
-<!--  ### Hi there 👋
-Myself Arya Basu -->
-<!-- **aryabasu17/aryabasu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
-<!-- 
-- 🔭 I’m currently working on Open Source Projects and KickStart
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on Web Page Development
-- 🤔 I’m looking for help with my personal projects.
-- 💬 Ask me about 
-- 📫 How to reach me:https://www.linkedin.com/in/arya-basu-55ab86200/
-- 😄 Pronouns: his/him
-- ⚡ Fun fact: I love to watch Crime Series .
-
-![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryabasu17&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryabasu17&layout=compact&theme=tokyonight)](https://github.com/aryabasu17/github-readme-stats)
-
-![code](https://user-images.githubusercontent.com/67229020/157500607-69a8f6fa-cf72-4e13-8aca-d5ef8596ad9c.gif)
-
-
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67229020/157500883-fcf0fc00-11f5-4d3d-95f4-3ad14a06f2e9.svg)
- 
-  -->
- <h1 align="center">Hey there, I'm Arya<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
@@ -37,19 +12,19 @@ Myself Arya Basu -->
 
 <p>
   
-- Computer Science & Engineering - 1st year @ Netaji Subhash Engineering College. 🎓
-- Currently working with <a href="https://oforce.com/" target="_black">OpemForce</a> as a Contributor. 🏥
+- Computer Science & Engineering - 3rd year @ Mepco Schlenk Engineering College. 🎓
+- Currently working with <a href="https://www.deepsphere.ai/" target="_black">DeepSphere.AI</a> as a Data Science Intern. 🏥
 - Looking for opportunities and collaborations in the field of data science. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-- Planning to Blog in the near future. 📝
+- Technical Blogger 📝
 </p>
 
 <div align="center">
 
-<!-- ## **Scan Me**
+## **Scan to fly through my Portfolio**
 <a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
 </div>
- -->
+
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
 
 <h3 align="left">Interests:</h3>
@@ -101,6 +76,11 @@ Myself Arya Basu -->
   - Eligible for Seed-Funding from Mepco Schlenk Engineering College
   - Got selected to meet-up with Angel Investors.
 
+# Blogs :
+|Title|Links|
+|:---:|:---:|
+|Rain Prediction in Australia - Decision Tree|<a href="https://hashnode.com/post/rain-prediction-in-australia-decision-tree-ckzsxgon30031d4s13ur6hjiq">Hashnode</a><br><a href="https://dev.to/avinash218/rain-prediction-in-australia-decision-tree-1b57">Dev</a>|
+|Stationarity Analysis in Time Series Data|<a href="https://geekycodes.in/stationarity-analysis-in-time-series-data/">GeekyCodes</a>|
   
 ## &#x1f4c8; My GitHub Stats🎯
  
@@ -144,7 +124,7 @@ Myself Arya Basu -->
 <br><br>
 [<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/avinash218)
 <br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ravinash218)
+[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@avinash-218)
 <br><br>
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
@@ -158,6 +138,3 @@ Myself Arya Basu -->
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
------
-Credits: avinash-218(https://github.com/avinash-218)
-Last Edited on: 12/01/2022
