@@ -1,3 +1,4 @@
+<!--STARTS_HERE_QUOTE_README-->
 name: Update Quote Readme
 
 on:
@@ -12,6 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: siddharth2016/quote-readme@main
-      
-      <!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
