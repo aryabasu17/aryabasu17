@@ -57,7 +57,7 @@
 ### medusa
 
 
-![1_Fw_RE610aaHhbXM1hvKELw.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651521542976/a_H8SIgky.png align="left")
+![1_Fw_RE610aaHhbXM1hvKELw.png](https://miro.medium.com/max/1400/1*mPpqBxZNTkn7CtwaK5i7dg.png)
 
 #### Website Link : https://www.medusajs.com/
 
