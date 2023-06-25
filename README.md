@@ -12,7 +12,7 @@
 
 <p>
   
-- Computer Science & Engineering - 2nd year @ Netaji Subhash Engineering College. 🎓
+- Computer Science & Engineering - 3rd year @ Netaji Subhash Engineering College. 🎓
 - Currently working with <a href="https://oforce.com/" target="_black">Openforce</a> as a Contributor. 🏥
 - Looking for opportunities and collaborations in the field of data science. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
