@@ -88,7 +88,7 @@
 <h3 align="left">Profile Views: 🧐</h3>
   
 <!--[Profile views](https://gpvc.arturio.dev/aryabasu17)-->
-[Profile views](https://visitcount.itsvg.in/api?id=aryabasu17&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aryabasu17&icon=0&color=1)](https://visitcount.itsvg.in)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryabasu17&theme=tokyonight)](https://github.com/aryabasu17/github-readme-stats)
 
@@ -145,22 +145,3 @@
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryabasu17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryabasu17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryabasu17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=aryabasu17&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
