@@ -4,7 +4,7 @@
 
 ## Dynamic Quotes 📜:
 <!--![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle&theme=tokyonight)-->
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
